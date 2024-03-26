@@ -1,5 +1,4 @@
-![Header](./github-header-image.png)
-
+<img src="./github-header-image.png" width="100%"/>
 
 
 
